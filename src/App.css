@@ -7,8 +7,7 @@
   
   body {
     font-family: 'Inter', sans-serif;
-    margin-top: 200px;
-    background: #F4F7FD !important;
+    background: #F4F7FD;
   }
   
   ul {
@@ -22,10 +21,11 @@
   
   img {
     display: inline-block;
+
   }
   
   .container {
-    width: 1362px;
+    width: 1110px;
     margin: 0 auto;
     padding: 0 20px;
   }
