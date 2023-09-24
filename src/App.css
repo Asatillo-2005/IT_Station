@@ -8,6 +8,7 @@
   body {
     font-family: 'Inter', sans-serif;
     background: #F4F7FD;
+
   }
   
   ul {
@@ -21,11 +22,4 @@
   
   img {
     display: inline-block;
-
-  }
-  
-  .container {
-    width: 1110px;
-    margin: 0 auto;
-    padding: 0 20px;
   }
